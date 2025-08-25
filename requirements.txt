@@ -1,0 +1,4 @@
+streamlit
+pyqrcode
+re
+io
